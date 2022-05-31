@@ -27,20 +27,20 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<li><a href="<?php echo base_url(); ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/visit-summary.png" alt="" /><span>Visit Summary</span></a></li>
 				<li><a href="<?php echo base_url(); ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/triggers.png" alt="" /><span>Triggers</span></a></li> -->
 
-				<li><a href="<?php echo base_url()."adminmenu/admincategory" ?>" title=""><span>Category</span></a></li>
-				<li><a href="<?php echo base_url()."adminmenu/adminitem" ?>" title=""><span>Item</span></a></li>
-				<li><a href="<?php echo base_url()."adminmenu/adminmenu" ?>" title=""><span>Menu</span></a></li>
-				<li><a href="<?php echo base_url()."adminmenu/adminselection" ?>" title=""><span>Selection</span></a></li>
-				<li><a href="<?php echo base_url()."adminmenu/admintopping" ?>" title=""><span>Topping</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/admindelivery" ?>" title=""><span>Delivery</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/admindiscount" ?>" title=""><span>Discount</span></a></li>
+				<li><a href="<?php echo base_url()."adminmenu/admincategory" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/bar-list.png" alt="" /><span>Category</span></a></li>
+				<li><a href="<?php echo base_url()."adminmenu/adminitem" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/visit-summary.png" alt="" /><span>Item</span></a></li>
+				<li><a href="<?php echo base_url()."adminmenu/adminmenu" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/bar-list.png" alt="" /><span>Menu</span></a></li>
+				<li><a href="<?php echo base_url()."adminmenu/adminselection" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/payment-list.png" alt="" /><span>Selection</span></a></li>
+				<li><a href="<?php echo base_url()."adminmenu/admintopping" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/triggers.png" alt="" /><span>Topping</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/admindelivery" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/bar-submission.png" alt="" /><span>Delivery</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/admindiscount" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/add-bar.png" alt="" /><span>Discount</span></a></li>
 
-				<li><a href="<?php echo base_url()."adminmodules/adminorder" ?>" title=""><span>Order</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/adminordertype" ?>" title=""><span>Order Type</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/adminpaymenttype" ?>" title=""><span>Payment Type</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/adminrestaurant" ?>" title=""><span>Restaurant</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/admintime" ?>" title=""><span>Time</span></a></li>
-				<li><a href="<?php echo base_url()."adminmodules/adminuser" ?>" title=""><span>User</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/adminorder" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/points.png" alt="" /><span>Order</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/adminordertype" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/payment-list.png" alt="" /><span>Order Type</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/adminpaymenttype" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/bar-payment.png" alt="" /><span>Payment Type</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/adminrestaurant" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/add-bar.png" alt="" /><span>Restaurant</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/admintime" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/add-bar.png" alt="" /><span>Time</span></a></li>
+				<li><a href="<?php echo base_url()."adminmodules/adminuser" ?>" title=""><img src="<?php echo asset_url();?>dist/images/dashboard/admin-list.png" alt="" /><span>User</span></a></li>
 
 			</ul>
 			<div class="clear"></div>

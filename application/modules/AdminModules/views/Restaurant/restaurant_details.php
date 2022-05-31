@@ -89,7 +89,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             </div>
         </div>
 
-        <div class="widget">
+        <!-- <div class="widget">
             <div class="oneFour">
                 <div class="formRow">
                     <label>Address:</label>
@@ -98,7 +98,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                     </div>
                     <div class="clear"></div>
                 </div>
-            </div>
+            </div> -->
 
             <div class="oneFour">
                 <div class="formRow">
